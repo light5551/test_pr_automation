@@ -1,5 +1,5 @@
 # Программирование 1 курс 2019 год, 8303
-| first name   | last name   |   stepik id | github login    | lb1   | lb2   | lb3   | lb4   | ts1   | ts2   | tp   | pj   |
-|:-------------|:------------|------------:|:----------------|:------|:------|:------|:------|:------|:------|:-----|:-----|
-| Sergey       | Glazunov    |     5555555 | light5551       | +     |       | +     | ?     |       |       |      |      |
-| Andrew       | Gavrilov    |     2222222 | AndrewGavril    | +     |       |       |       |       |       |      |      |
+| first name   | last name   |   stepik id | github login   | lb1   | lb2   | lb3   | lb4   | ts1   | ts2   | tp   | pj   |
+|:-------------|:------------|------------:|:---------------|:------|:------|:------|:------|:------|:------|:-----|:-----|
+| Sergey       | Glazunov    |     5555555 | light5551      | +     |       | +     | ?     |       |       |      |      |
+| Andrew       | Gavrilov    |     2222222 | AndrewGavril   | +     |       | +     |       |       |       |      |      |
