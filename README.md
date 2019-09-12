@@ -31,6 +31,6 @@
 |Sofya|Nekrasova|SofiaNekrasova|-|-|-|-|
 |Shohruz|Tursunov|TursunovShohruz|-|-|-|-|
 |Khakim|Balazhonov|KhakimBalazhonov|-|-|-|-|
-|Glazunov|Sergey|light5551|-|-|-|-|
+|Sergey|Glazunov|light5551|-|-|-|-|
 |Andrew|Gavrilov|AndrewGavril|-|-|-|-|
 
