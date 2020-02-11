@@ -31,5 +31,5 @@
 | Sofya      | Nekrasova     | SofiaNekrasova      | -     | -     | -     | -     |
 | Shohruz    | Tursunov      | TursunovShohruz     | -     | -     | -     | -     |
 | Khakim     | Balazhonov    | KhakimBalazhonov    | -     | -     | -     | -     |
-| Sergey     | Glazunov      | light5551           | +     | -     | +     | ?     |
-| Andrew     | Gavrilov      | AndrewGavril        | -     | -     | +     | -     |
+| Sergey     | Glazunov      | light5551           | 2     | -     | 2     | 2     |
+| Andrew     | Gavrilov      | AndrewGavril        | -     | -     | 2     | -     |
